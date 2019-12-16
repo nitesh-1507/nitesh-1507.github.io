@@ -18,3 +18,20 @@ Repository containing portfolio of data science projects completed by me for aca
      - [Lasso using coordinate descent](https://github.com/nitesh-1507/Lasso-Regession-using-coordinate-descent): The implementation of lasso regression, or L1 penalty for sparsity is highlighted. The gradient update is done using coordinate descent, which unlike gradient descent updates one coordinate at a time. 
      
      - [Lasso using C++](https://github.com/nitesh-1507/Lasso-Regression-using-Cpp): The lasso implementation using c++ in R shows significant speed improvement. The armadillo library eases the code implementation in C++, since it consists of easy operation using vectors and matrix. 
+
+- ### Online Courses
+
+List of online courses and workshops I enrolled to in order to acquire knowledge and build my understanding on the subjects related to data science and machine learning.
+
+   - [Machine Learning Foundations](https://www.coursera.org/learn/ml-foundations)
+   - [Machine Learning Regression](https://www.coursera.org/learn/ml-regression)
+   - [Machine Learning Classification](https://www.coursera.org/learn/ml-classification)
+   - [Machine Learning Clustering](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+   - [Neural networks and Deep learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+   - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+   - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+   - [Tableau 10 A-Z: Hands-On Tableau Training For Data Science!](https://www.udemy.com/course/tableau10/)
+   
+   
