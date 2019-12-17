@@ -34,4 +34,21 @@ List of online courses and workshops I enrolled to in order to acquire knowledge
    - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
    - [Tableau 10 A-Z: Hands-On Tableau Training For Data Science!](https://www.udemy.com/course/tableau10/)
    
+- ### Books and videos
    
+   This is a selection of books and videos for data science and related disciplines that I often use as a good reference
+      
+    - [Introduction to statistical learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+    - [Element of statistical learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+    - [Convex optimization](https://www.amazon.com/Convex-Optimization-Corrections-2008-Stephen/dp/0521833787/ref=sr_1_1?keywords=Convex+Optimization+By+Stephen+Boyd&qid=1576600464&s=books&sr=1-1)
+    - [Introduction to linear algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=asc_df_0980232775/?tag=hyprod-20&linkCode=df0&hvadid=312152840806&hvpos=1o2&hvnetw=g&hvrand=9003032695276695227&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027902&hvtargid=pla-454800779501&psc=1&tag=&ref=&adgrpid=61316181319&hvpone=&hvptwo=&hvadid=312152840806&hvpos=1o2&hvnetw=g&hvrand=9003032695276695227&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027902&hvtargid=pla-454800779501)
+    - [Introduction to linear algebra - video](https://www.youtube.com/watch?v=J7DzL2_Na80&list=PLE7DDD91010BC51F8&index=2)
+    - [Convex optimization - video](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622)
+ 
+ - ### Contact
+ 
+ If you liked what you've seen, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to reach me out:
+ 
+  - [LinkedIn](https://www.linkedin.com/in/niteshkumar92/)
+ 
+    
