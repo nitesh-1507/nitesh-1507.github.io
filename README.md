@@ -1,23 +1,31 @@
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
 
+   1. Package and Algortithms : Scripting both of these are a part of my course from STAT department : STAT 689 - Statistical Computation. The method which is converted to package is inspired by my research work on industrial projects
+
+   2. Projects : Industial projects along with course and hobby are mentioned. The projects under industrial will be demonstrated with report only, keeping in mind the confidentiality of the code. 
+
+   3. Online course and books : This section highlights the material, both in the form of tutorial and books, which are pivotal for widening my understanding about data science.
+
+   4. Contact : I can be reached out at the given contacts, to talk more about my work, and how I can be a add value to organizations vision.
+
 ## Contents
 
 - ### Package
 
-    - [Package WindPlus](https://github.com/nitesh-1507/WindPlus): The statistical method covariate matching is rooted in deep literature. My current work as a Graduate Research Assistant on Industrial projects, paved way to script the method into a package. The code execution time is reduced from 30 minutes to 20 seconds using C++.
+    - [Package WindPlus](https://github.com/nitesh-1507/WindPlus): The statistical method covariate matching is rooted in deep literature. My current work as a Graduate Research Assistant on Industrial projects, paved way to script the method into a package. The code execution time has been reduced from 30 minutes to 20 seconds using C++.
     
 - ### Algorithms from scratch
 
-     - [Linear Regression](https://github.com/nitesh-1507/Linear-Regression): The implementation of linear regression from scratch is highlighted, which includes gradient calculation and parameter update.
+     - [Linear Regression](https://github.com/nitesh-1507/Linear-Regression): The implementation of linear regression from scratch has been highlighted, which includes gradient calculation and parameter update.
      
-     - [Clustering Kmeans](https://github.com/nitesh-1507/Clustering-Kmeans): The vectorized implementation of Kmean clustering is highlighted. The algorithm showcases the fundamentals of centroid initialization, and its update as the iteration proceeds.
+     - [Clustering Kmeans](https://github.com/nitesh-1507/Clustering-Kmeans): The vectorized implementation of Kmean clustering has been highlighted. The algorithm showcases the fundamentals of centroid initialization, and its update as the iteration proceeds.
     
     - [Logistic Regression Multiclass](https://github.com/nitesh-1507/Logistic-Regression-Multiclass): The implementation of multiclass logistic regression is highlighted, using newtons method. Unlike gradient descent, newtons method requires computing hessian matrix. The ridge penalty is further added in the objective function to make the inverse of hessian practical. 
      
      - [Lasso using coordinate descent](https://github.com/nitesh-1507/Lasso-Regession-using-coordinate-descent): The implementation of lasso regression, or L1 penalty for sparsity is highlighted. The gradient update is done using coordinate descent, which unlike gradient descent updates one coordinate at a time. 
      
-     - [Lasso using C++](https://github.com/nitesh-1507/Lasso-Regression-using-Cpp): The lasso implementation using C++ in R shows significant speed improvement. The armadillo library eases the code implementation in C++, since it consists of easy operation using vectors and matrix. 
+     - [Lasso using C++](https://github.com/nitesh-1507/Lasso-Regression-using-Cpp): The lasso implementation using c++ in R shows significant speed improvement. The armadillo library eases the code implementation in C++, since it consists of easy operation using vectors and matrix. 
 
 
 - ### Projects
@@ -26,9 +34,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
      - [Power curve modeling](https://github.com/nitesh-1507/Power-curve-modelling-and-performance-evaluation-of-wind-energy-data): The methods used to model the wind energy data are KNN, Splines, Gaussian Process, Kernel Regression. Since the data set was that of time series, various resolutions were considered and compared, such as 10 minutes average, 1 minute average, downsampling etc. The RMSE obtained by above methods outperformed industry accepted methodolgy - Binning.
 
-     - [Feature Engineering using Xgboost](https://github.com/nitesh-1507/Data-mining-and-feature-engineering-of-wind-energy-data-using-Xgboost): In normal practices, not every information is important, similarly each of the features does not add to the story telling. Initial filtering of features is done using correlation plot, and histogram similarity analysis. Doing so, reduced the numbr of features from 190 to approximately 35. Further Xgboost was applied to extract the important features using importance value, which reduced the number to 9 features. Also new features like standard deviation and turbulence intensity are engineered.
+     - [Feature Engineering using Xgboost](https://github.com/nitesh-1507/Data-mining-and-feature-engineering-of-wind-energy-data-using-Xgboost): In normal practices, not every information is important, similarly each of the features does not add to the story telling. Initial filtering of features were done using correlation plot, and histogram similarity analysis. Doing so, reduced the numbr of features from 190 to approximately 35. Further Xgboost was applied to extract the important fetures using importance value, which reduced the number to 10 features. Also new features like standard deviation and turbulence intensity were engineered.
 
-     - [Spatial and Temporal effect on Turbine performance](https://github.com/nitesh-1507/Spatial-and-Temporal-effect-on-turbine-performance): Space and time play a key role in quantifying performance comparison, since the environmental conditions changes with respect to both. The performance quantification is carried out for entire farm, keeping one of the turbine as a reference. The methods used to accomplish are covariate matching, hypothesis testing using gaussian process.
+     - [Spatial and Temporal effect on Turbine performance](https://github.com/nitesh-1507/Spatial-and-Temporal-effect-on-turbine-performance): Space and time play a key role in quantifying performance comparison, since the environmental conditions changes with respect to both. The performance quantification was carried out for entire farm, keeping one of the turbine as a reference. The methods used to accomplish are covariate matching, hypothesis testing using gaussian process.
      
 
 - ### Online Courses
