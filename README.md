@@ -37,7 +37,12 @@ Repository containing portfolio of data science projects completed by me for aca
      - [Feature Engineering using Xgboost](https://github.com/nitesh-1507/Data-mining-and-feature-engineering-of-wind-energy-data-using-Xgboost): In normal practices, not every information is important, similarly each of the features does not add to the story telling. Initial filtering of features were done using correlation plot, and histogram similarity analysis. Doing so, reduced the numbr of features from 190 to approximately 35. Further Xgboost was applied to extract the important fetures using importance value, which reduced the number to 10 features. Also new features like standard deviation and turbulence intensity were engineered.
 
      - [Spatial and Temporal effect on Turbine performance](https://github.com/nitesh-1507/Spatial-and-Temporal-effect-on-turbine-performance): Space and time play a key role in quantifying performance comparison, since the environmental conditions changes with respect to both. The performance quantification was carried out for entire farm, keeping one of the turbine as a reference. The methods used to accomplish are covariate matching, hypothesis testing using gaussian process.
-     
+ 
+ ### Course Projects
+
+     - [Classifying risk of an insurance claim ](https://github.com/nitesh-1507/Classifying-the-risk-of-an-insurance-claim): Defaulters pose a high risk to any financial organization. The data set at hand is quite skewed, out of 100,000 observations only 720 insurances are claimed. This claims cost organization immensely. Methods like Logistic regression, Linear discriminant analysis, Quadratic discriminant analysis are used. Unlike these methods, Anamoly detection or Random under sampling are more promising methods to tackle a situation of skewed data set.
+
+     - [Dimensionality reduction using PCA](https://github.com/nitesh-1507/Dimensionality-reduction-using-PCA): Multivariate data shows a characteristic of some correlation between features. This property makes it difficult to separate out of control data observations while preparing control limit in manufacturing industry, using schewart chart. Using PCA 209 features were reduced to 10 eigen values, using which projected data were studied individually to separate in control data from out of control one.
 
 - ### Online Courses
 
