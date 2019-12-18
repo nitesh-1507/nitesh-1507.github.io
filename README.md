@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
    3. Online course and books : This section highlights the material, both in the form of tutorial and books, which are pivotal for widening my understanding about data science.
 
-   4. Contact : I can be reached out at the given contacts, to talk more about my work, and how I can be a add value to organizations vision.
+   4. Contact : I can be reached out at the given contacts, to talk more about my work, and how I can add value to organizations vision.
 
 ## Contents
 
