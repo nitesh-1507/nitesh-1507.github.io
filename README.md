@@ -43,6 +43,10 @@ Repository containing portfolio of data science projects completed by me for aca
      - [Classifying risk of an insurance claim ](https://github.com/nitesh-1507/Classifying-the-risk-of-an-insurance-claim): Defaulters pose a high risk to any financial organization. The data set at hand is quite skewed, out of 100,000 observations only 720 insurances are claimed. This claims cost organization immensely. Methods like Logistic regression, Linear discriminant analysis, Quadratic discriminant analysis are used. Unlike these methods, Anamoly detection or Random under sampling are more promising methods to tackle a situation of skewed data set.
 
      - [Detection of anomalous points of multivariate data using Principal Component Analysis(PCA)](https://github.com/nitesh-1507/Detection-of-anomalous-points-of-multivariate-data-using-Principal-Component-Analysis-PCA): Multivariate data shows a characteristic of some correlation between features. This property makes it difficult to separate out of control data observations while preparing control limit in manufacturing industry, using schewart chart. Using PCA 209 features were reduced to 10 eigen values, using which projected data were studied individually to separate in control data from out of control one.
+     
+   - #### Self Projects
+
+     - [Detection of anomalous points using Isolation forest to improve predictive modelling](https://github.com/nitesh-1507/Detection-of-anomalous-points-using-Isolation-forest-to-improve-predictive-modelling): The presence of anomalous points hurts the modelling immensely. Isolation forest is used along with Xgboost to predict the bearing temperature, also the results are compared to SVM, Random Forest etc.
 
 - ### Online Courses
 
