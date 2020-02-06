@@ -30,7 +30,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Projects
  
-   #### Industry Projects
+   - #### Industry Projects
 
      - [Power curve modeling](https://github.com/nitesh-1507/Power-curve-modelling-and-performance-evaluation-of-wind-energy-data): The methods used to model the wind energy data are KNN, Splines, Gaussian Process, Kernel Regression. Since the data set was that of time series, various resolutions were considered and compared, such as 10 minutes average, 1 minute average, downsampling etc. The RMSE obtained by above methods outperformed industry accepted methodolgy - Binning.
 
@@ -38,7 +38,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
      - [Spatial and Temporal effect on Turbine performance](https://github.com/nitesh-1507/Spatial-and-Temporal-effect-on-turbine-performance): Space and time play a key role in quantifying performance comparison, since the environmental conditions changes with respect to both. The performance quantification was carried out for entire farm, keeping one of the turbine as a reference. The methods used to accomplish are covariate matching, hypothesis testing using gaussian process.
  
-   #### Course Projects
+   - #### Course Projects
 
      - [Classifying risk of an insurance claim ](https://github.com/nitesh-1507/Classifying-the-risk-of-an-insurance-claim): Defaulters pose a high risk to any financial organization. The data set at hand is quite skewed, out of 100,000 observations only 720 insurances are claimed. This claims cost organization immensely. Methods like Logistic regression, Linear discriminant analysis, Quadratic discriminant analysis are used. Unlike these methods, Anamoly detection or Random under sampling are more promising methods to tackle a situation of skewed data set.
 
