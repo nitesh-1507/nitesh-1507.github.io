@@ -76,5 +76,5 @@ Repository containing portfolio of data science projects completed by me for aca
     
 
      - [LinkedIn](https://www.linkedin.com/in/niteshkumar92/)
-     - Email : nitesh.kumar@tamu.edu
+     - Email : nkumar.tamu@gmail.com
      - Phone : (979)-571-8325
