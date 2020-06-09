@@ -1,19 +1,21 @@
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
 
-   1. Package and Algortithms : Scripting both of these are a part of my course from STAT department : STAT 689 - Statistical Computation. The method which is converted to package is inspired by my research work on industrial projects
+   1. Package : The package is a derivative of my industry-academia research work at Texas A&M University as a Graduate Research Assistant. The package DSWE(Data Science for Wind Energy) houses functions capable of power curve modelling and function comparisons. 
+   
+   2. Algortithms : Scripting both of these are a part of my course from STAT department : STAT 689 - Statistical Computation. The method which is converted to package is inspired by my research work on industrial projects
 
-   2. Projects : Industial projects along with course and hobby are mentioned. The projects under industrial will be demonstrated with report only, keeping in mind the confidentiality of the code. 
+   3. Projects : Industial projects along with course and hobby are mentioned. The projects under industrial will be demonstrated with report only, keeping in mind the confidentiality of the code. 
 
-   3. Online course and books : This section highlights the material, both in the form of tutorial and books, which are pivotal for widening my understanding about data science.
+   4. Online course and books : This section highlights the material, both in the form of tutorial and books, which are pivotal for widening my understanding about data science.
 
-   4. Contact : I can be reached out at the given contacts, to talk more about my work, and how I can add value to organizations vision.
+   5. Contact : I can be reached out at the given contacts, to talk more about my work, and how I can add value to organizations vision.
 
 ## Contents
 
 - ### Package
 
-    - [Package WindPlus](https://github.com/nitesh-1507/WindPlus): The statistical method covariate matching is rooted in deep literature. My current work as a Graduate Research Assistant on Industrial projects, paved way to script the method into a package. The code execution time has been reduced from 30 minutes to 20 seconds using C++.
+    - [Package DSWE](https://github.com/TAMU-AML/DSWE-Package): An R implementation of some of the data science methods for wind energy (DSWE) applications.
     
 - ### Algorithms from scratch
 
